@@ -1,0 +1,8 @@
+{
+    "title": "Demo-chat",
+    "identifier": "com.yourcompany.wizardEVAP.Demochat",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
