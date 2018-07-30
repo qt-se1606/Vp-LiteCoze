@@ -19,3 +19,5 @@ V-play LiteCoze项目说明（后台服务）
 
 
 实现：杜虹朋
+
+![](https://github.com/qt-se1606/Vp-LiteCoze/blob/master/1.png)
